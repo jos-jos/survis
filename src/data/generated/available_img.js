@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+const availableImg = ["the interface of connected paper","Beck2016Visual","Beyond news content","misinformationdisinformation detection","rumor detection","user perference-aware","compare to the knowledge"];
